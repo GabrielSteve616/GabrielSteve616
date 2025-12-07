@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Inicio de Carreira`**
 
-Praser me chamo Gabriel Steve , tenho 19 anos e sou natural de Curitiba, Conclui o ensino medio, Atualmente estou cursando Faculdade de Gestão de TI na Uni Santa Cruz, Amo a area de Tecnologia des de Pequeno tendo o primeiro contato com os Video Games Graças ao meu Pai e dai começei a querer entender mais sobre o ramo da tecnologia, Fora ter um conhecimento na area da Tecnoligia tambem tenho comenhecimento em Modelagem 3D e em Desenhos(Art) Tenho o meu instagram"[Instagram](https://www.instagram.com/gabriel_steve616)" E o meu Linkedin"[Linkedin](https://www.linkedin.com/in/gabriel-steve-de-oliveira-2a47331ba)"
+Praser me chamo Gabriel Steve , tenho 19 anos e sou natural de Curitiba, Conclui o ensino medio, Atualmente estou cursando Faculdade de Gestão de TI na Uni Santa Cruz, Amo a area de Tecnologia des de Pequeno tendo o primeiro contato com os Video Games Graças ao meu Pai e dai começei a querer entender mais sobre o ramo da tecnologia, Fora ter um conhecimento na area da Tecnoligia tambem tenho comenhecimento em Modelagem 3D e em Desenhos(Art).
 
 <p align="left">
     <a href="https://github.com/GabrielSteve616?tab=repositories&sort=stargazers">
@@ -40,10 +40,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-origina
 <img align="left" alt="Inkscape" title="Inkscape" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" />
 <img align="left" alt="PyCharm" title="PyCharm" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-                 
-<br/>
-<br/>
+<br>
+<br>
 
-### 📊 Estatísticas
+### 📱 Contatos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=|GabrielSteve616=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+📲Instagram: [Instagram](https://www.instagram.com/gabriel_steve616)
+<br>
+💼Linkedin: [Linkedin](https://www.linkedin.com/in/gabriel-steve-de-oliveira-2a47331ba)
+<br>
+✉️Email: [gabriel.steve.contato616@gmail.com](mailto:gabriel.steve.contato616@gmail.com)
