@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Inicio de Carreira`**
 
-Praser me chamo Gabriel Steve , tenho 19 anos e sou natural de Curitiba, Conclui o ensino medio, Atualmente estou cursando Faculdade de Gestão de TI na Uni Santa Cruz, Amo a area de Tecnologia des de Pequeno tendo o primeiro contato com os Video Games Graças ao meu Pai e dai começei a querer entender mais sobre o ramo da tecnologia, Fora ter um conhecimento na area da Tecnoligia tambem tenho comenhecimento em Modelagem 3D e em Desenhos(Art).
+Praser me chamo Gabriel Steve , tenho 19 anos e sou natural de Curitiba, Conclui o ensino medio, Atualmente estou cursando Faculdade de Gestão de TI na Uni Santa Cruz, Amo a area de Tecnologia des de Pequeno tive o primeiro contato com os Video Games Graças ao meu Pai e dai começei a querer entender mais sobre o ramo da tecnologia, Fora ter um conhecimento na area da Tecnoligia tambem tenho comenhecimento em Modelagem 3D e em Desenhos(Art).
 
 <p align="left">
     <a href="https://github.com/GabrielSteve616?tab=repositories&sort=stargazers">
