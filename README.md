@@ -42,16 +42,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-origina
 <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br>
 <br>
-### 📊 Linguagens mais usadas
-
-<div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSteve616&layout=compact&langs_count=8&theme=dracula" 
-       alt="Linguagens mais usadas"
-  />
-</div>
-<br>
-<br>
 ### 📱 Contatos
 
 📲Instagram: [Instagram](https://www.instagram.com/gabriel_steve616)
