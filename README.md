@@ -42,7 +42,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-origina
 <img align="left" alt="VScode" title="VScode" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br>
 <br>
-
+<img width="633" height="334" alt="image" src="https://github.com/user-attachments/assets/ff2dde1e-38ce-490e-8c4d-6a113a415960" />
+<br>
+<br>
 ### 📱 Contatos
 
 📲Instagram: [Instagram](https://www.instagram.com/gabriel_steve616)
